@@ -1,5 +1,5 @@
-## TV player
-# Download Links
+# TV player
+## Download Links
 http://www.mediafire.com/file/tb10f39u8oeufdh/StreamPlayer.exe/file
 
 A simple video player for http/ftp/mms/rtsp/rtmp/hls/m3u 
