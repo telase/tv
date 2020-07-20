@@ -2,6 +2,9 @@
 ## Download Links
 http://www.mediafire.com/file/tb10f39u8oeufdh/StreamPlayer.exe/file
 
+Açıklamalar:
+http://telase.mypressonline.com/showthread.php?tid=258
+
 update:
 2020
 
