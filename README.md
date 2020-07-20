@@ -11,4 +11,4 @@ update:
 A simple video player for http/ftp/mms/rtsp/rtmp/hls/m3u 
 
 ## demo
-![Demo](https://github.com/hikdo/tv/raw/master/dist/demo.jpg)
+![Demo](https://github.com/telase/tv/raw/master/dist/demo.jpg)
